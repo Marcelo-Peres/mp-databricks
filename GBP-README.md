@@ -189,7 +189,7 @@ $$ \frac{(vv001)}{1000} $$
 
 Composição do cálculo
 
-$$ net\_sales = gross\_sales\_usd\ +\ cash\_discounts\_usd\ +\ rebate\_usd\ +\ sales\_discounts\_usd\ +\ pis\_tax\_usd\ +\ ipi\_tax\_usd\ +\ cofins\_tax\_usd\ +\ icms\_tax\_usd\ +\ other\_taxes\_1\_usd\ +\ other\_taxes\_2\_usd\ +\ other\_taxes\_3\_usd $$
+$$ net\_sales\ = gross\_sales\_usd + cash\_discounts\_usd + rebate\_usd + sales\_discounts\_usd + pis\_tax\_usd + ipi\_tax\_usd + cofins\_tax\_usd + icms\_tax\_usd + other\_taxes\_1\_usd + other\_taxes\_2\_usd + other\_taxes\_3\_usd $$
 
 ---
 
